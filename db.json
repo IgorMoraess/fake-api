@@ -16,13 +16,13 @@
             "id": 3,
             "titulo": "Melhor Torcida",
             "capa": "https://www.tupi.fm/wp-content/uploads/2022/10/52447291924_e8db897257_c.jpg",
-            "link": "https://www.youtube.com/shorts/y_W8pXimuwg?feature=share/"
+            "link": "https://www.youtube.com/embed/y_W8pXimuwg"
         },
         {
             "id": 4,
             "titulo": "Luffy Gear 5",
             "capa": "https://pbs.twimg.com/profile_images/1629894381409902593/15Lrxj6j_400x400.jpg",
-            "link": "https://www.youtube.com/shorts/idCrms60Byw?feature=share"
+            "link": "https://www.youtube.com/embed/idCrms60Byw"
         }
     ]
 }
